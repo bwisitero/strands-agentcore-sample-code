@@ -18,10 +18,10 @@ async def stream_demo():
     async for event in agent.stream_async(
         "Write a 3-step plan for building an AI startup"
     ):
-        if event.type == "text":
-            print(event.content, end="", flush=True)
-        elif event.type == "tool_use":
-            print(f"\n[Using tool: {event.tool_name}]")
+        if event.get("type") == "text":
+            print(event.get("content", ""), end="", flush=True)
+        elif event.get("type") == "tool_use":
+            print(f"\n[Using tool: {event.get('tool_name')}]")
 
 # Run the streaming demo
 if __name__ == "__main__":

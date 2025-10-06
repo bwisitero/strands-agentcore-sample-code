@@ -1,0 +1,31 @@
+
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into on October 1, 2025,
+between TechCorp Inc. ("Company") and John Smith ("Employee").
+
+1. POSITION AND DUTIES
+Employee shall serve as Senior Software Engineer, reporting to the CTO.
+
+2. COMPENSATION
+Base Salary: $150,000 per year, paid bi-weekly
+Annual Bonus: Up to 20% of base salary based on performance
+Stock Options: 10,000 shares vesting over 4 years
+
+3. BENEFITS
+- Health Insurance: Company covers 100% of employee premium
+- Vacation: 20 days paid time off per year
+- 401(k): Company matches up to 6% of salary
+
+4. WORK SCHEDULE
+Employee will work remotely with core hours 10 AM - 3 PM EST.
+Occasional travel may be required (< 10% of time).
+
+5. TERMINATION
+Either party may terminate this agreement with 30 days written notice.
+
+6. CONFIDENTIALITY
+Employee agrees to maintain confidentiality of all proprietary information.
+
+Signed: October 1, 2025
+    

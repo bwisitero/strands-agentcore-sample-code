@@ -1,0 +1,14 @@
+{
+  "user_id": "demo_user",
+  "preferences": {
+    "preferred_name": "Ali"
+  },
+  "conversation_history": [
+    {
+      "role": "user",
+      "message": "Hello! My name is Alice and I prefer to be called Ali.",
+      "timestamp": "2025-10-05T13:14:48.335753"
+    },
+    {
+      "role": "assistant",
+      "message": 
